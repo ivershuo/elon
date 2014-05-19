@@ -1,6 +1,6 @@
 {
   "name": "elon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A websocket game srv",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "ws": "~0.4.31",
     "when": "~3.0.1",
     "uuid": "~1.4.1",
-    "musk" : ">0.0.2",
+    "musk" : ">=0.0.2",
     "jr2-helper": ""
   },
   "bugs": {
