@@ -1,0 +1,26 @@
+{
+  "name": "elon",
+  "version": "0.0.1",
+  "description": "A websocket game srv",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ivershuo/elon.git"
+  },
+  "author": "ivershuo",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "~0.4.31",
+    "when": "~3.0.1",
+    "uuid": "~1.4.1",
+    "musk" : ">0.0.2",
+    "jr2-helper": ""
+  },
+  "bugs": {
+    "url": "https://github.com/ivershuo/elon/issues"
+  },
+  "homepage": "https://github.com/ivershuo/elon"
+}
